@@ -21,7 +21,7 @@ main {
   .review {
     background: palevioletred;
     padding: 1.5rem 2rem;
-    border-radius: 20px;
+    border-radius: 15px;
     /* box-shadow: var(--light-shadow);
     transition: var(--transition); */
     text-align: center;
